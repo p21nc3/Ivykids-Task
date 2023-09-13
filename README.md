@@ -1,7 +1,7 @@
 # Ivykids-Task Documentation
 * Full Stack Application -> Twitter-Clone
-* Due to time contraint, required and brownie backend features are mainly focused than forntend part.
-* Screenshots are added - 
+* Due to time contraint, required and brownie backend features are more focused than forntend part. Also to save the time post data are borrowed from internet dumps.
+* Screenshots are added here - https://github.com/p21nc3/Ivykids-Task/blob/main/src/Readme.md
 
 ## Technologies Used : MERN stack application
 
@@ -34,6 +34,8 @@
 ## Extra Features (optional):
 
 - [x] Dark theme and Light theme.<br>
+- [x] Bookmark Tweets.<br>
+- [x] Like and comment on the post.<br>
 
 ## Local Setup
 
