@@ -3,7 +3,7 @@ import { React, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { PostModal, PrimaryButton, SettingsModal, UserAvatar } from "..";
 import { useAuth } from "../../index";
-import { logoImg } from "../../utils/constants";
+
 import {
   HiDotsHorizontal,
   HiPlusCircle,
