@@ -1,15 +1,17 @@
 # Ivykids-Task Documentation
-Full Stack Application -> Twitter-Clone
+* Full Stack Application -> Twitter-Clone
+* Due to time contraint, required and brownie backend features are mainly focused than forntend part.
+* Screenshots are added - 
 
 ## Technologies Used : MERN stack application
 
 - React JS
 - React Context API + useReducer
-- React Router v6
+- React Router 
 - Tailwind CSS
 - NodeJS and ExpressJS
 - Material UI components
-- MongoDB with Mirage for backend
+- MongoDB with Mirage 
 - React Icons
 - React Hot Toast
 
@@ -32,3 +34,20 @@ Full Stack Application -> Twitter-Clone
 ## Extra Features (optional):
 
 - [x] Dark theme and Light theme.<br>
+
+## Local Setup
+
+* Node Modules are included 😊
+* Clone this project
+```bash
+git clone
+```
+* Open the source directory
+```bash 
+cd Ivykids-Task
+```
+* Run the following command
+```bash
+npm start
+```
+## 
