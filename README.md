@@ -1,4 +1,4 @@
-# Ivykids-Task
+# Ivykids-Task Documentation
 Full Stack Application -> Twitter-Clone
 
 ## Technologies Used : MERN stack application
@@ -25,8 +25,8 @@ Full Stack Application -> Twitter-Clone
 
 ## Brownie Tasks (optional):
 - [x] Deploy both the frontend and backend application.<br>
-- [] Use Typescript.<br>
-- [] Use GraphQL as an API Gateway and interact with GraphQL from the frontend.<br>
+- [ ] Use Typescript.<br>
+- [ ] Use GraphQL as an API Gateway and interact with GraphQL from the frontend.<br>
 - [x] Add image/video upload functionality for image/video in tweets.<br>
 
 ## Extra Features (optional):
