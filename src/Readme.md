@@ -13,3 +13,5 @@
 ![](/src/screenshots/edit_and_delete.png)
 
 ![](/src/screenshots/bookmark.png)
+
+![](/src/screenshots/theme.png)
