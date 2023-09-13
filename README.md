@@ -1,5 +1,6 @@
 # Ivykids-Task Documentation
 * Full Stack Application -> Twitter-Clone
+* **Live Demo -> https://ivykids.netlify.app/**
 * Due to time contraint, required and brownie backend features are more focused than forntend part. Also to save the time post data are borrowed from internet dumps.
 * Screenshots are added here - https://github.com/p21nc3/Ivykids-Task/blob/main/src/Readme.md
 
