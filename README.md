@@ -31,4 +31,4 @@ Full Stack Application -> Twitter-Clone
 
 ## Extra Features (optional):
 
-<input type="checkbox" checked> Dark theme and Light theme.<br>
+- [x] Dark theme and Light theme.<br>
