@@ -35,7 +35,7 @@
 
 - [x] Dark theme and Light theme.<br>
 - [x] Bookmark Tweets.<br>
-- [x] Like and comment on the post.<br>
+- [x] Like, Comment and Emojis on the post.<br>
 
 ## Local Setup
 
