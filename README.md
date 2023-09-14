@@ -44,7 +44,7 @@
 * Node Modules are included 😊
 * Clone this project
 ```bash
-git clone 
+git clone https://github.com/p21nc3/Ivykids-Task.git
 ```
 * Open the source directory
 ```bash 
