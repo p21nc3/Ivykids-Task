@@ -1,6 +1,7 @@
 # Ivykids-Task Documentation
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff260ed9-7158-46d3-90f6-6bbf19751841/deploy-status)](https://app.netlify.com/sites/ivykids/deploys)
 * Full Stack Application -> Twitter-Clone
-* **Live Demo -> https://ivykids.netlify.app/**
+* **Live Demo -> https://ivykids.netlify.app/** 
 * Due to time contraint, required and brownie backend features are more focused than forntend part. Also to save the time post data are borrowed from internet dumps.
 * Screenshots are added here - https://github.com/p21nc3/Ivykids-Task/blob/main/src/Readme.md
 
@@ -43,7 +44,7 @@
 * Node Modules are included 😊
 * Clone this project
 ```bash
-git clone
+git clone 
 ```
 * Open the source directory
 ```bash 
